@@ -13,7 +13,7 @@ function TokenInfo(props) {
                     <h1>CULT/WETH</h1>
                     <div className={whiteOutline ? classes["close-btn--white"] : classes["close-btn"]}>X</div>
                 </div>
-                <h4>0xf0f9d895aca5c8678f706fb8216fa22957685a13</h4>
+                <p>0xf0f9d895aca5c8678f706fb8216fa22957685a13</p>
                 <div className={whiteOutline ? classes["row-2--white"] : classes["row-2"]}>
                     <div className={classes["row-2-item"]}><span style={{ color: "#43ABE0", paddingRight: "5px" }}>Liquidity:</span>$6.08M</div>
                     <div className={classes["row-2-item"]}><span style={{ color: "#43ABE0", paddingRight: "5px" }}>Market Cap:</span> $68.89M</div>
